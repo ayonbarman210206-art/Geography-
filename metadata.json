@@ -1,0 +1,6 @@
+{
+  "name": "Dipa Geography Universe",
+  "description": "Complete Geography Learning, Storybook, Practical Lab, Exam & Job Preparation Web Application for Dipa",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
